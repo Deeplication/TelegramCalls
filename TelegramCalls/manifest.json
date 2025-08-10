@@ -1,0 +1,1 @@
+{"id":"kettu.telegram-calls","name":"TelegramCalls","description":"Mimic Telegram call audio: stereo media, no attenuation, MODE_NORMAL on wired, relaxed mic DSP.","version":"1.0.0","authors":[{"name":"Deeplication"}],"main":"index.js","license":"MIT","source":"local","hash":"be513da2739356bcedca0ae517594fc93906fa48b2c178abd0e07ca490aeb441"}
