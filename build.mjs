@@ -34,8 +34,8 @@ function getBaseUrl() {
   }
   const [owner, repoName] = repo.split("/");
   // If the repo is <owner>.github.io, base is the root
-  if (repoName.toLowerCase() === `${owner.toLowerCase()}.github.io`) {
-    return `https://${owner  return `https://${owner}.github.io/${repoName}`;
+  //if (repoName.toLowerCase() === `${owner.toLowerCase()}.github.io`) {
+  //eturn `https://${owner  return `https://${owner}.github.io/${repoName}`;
 }
 
 async function ensureDir(p) {
